@@ -1,0 +1,18 @@
+[project]
+name = "state-flux-scxml_mysticdannyboy"
+version = "0.0.1"
+authors = [
+  { name="Mystic Danny Boy", email="dome.daniel+pypi@mysticnails.hu"},
+]
+description = "Ez egy Python package ser-deser feladatokhoz SCXML parse-olása érdekében. A State-flux alkalmazás használja fel."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+# Ide jöhetnek a github linkek.
+Homepage = "https://github.com/MysticDannyBoy/state-flux?tab=readme-ov-file#state-flux-scxml"
