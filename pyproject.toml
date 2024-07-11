@@ -15,4 +15,4 @@ classifiers = [
 
 [project.urls]
 # Ide jöhetnek a github linkek.
-Homepage = "https://github.com/MysticDannyBoy/state-flux?tab=readme-ov-file#state-flux-scxml"
+Homepage = "https://github.com/MysticDannyBoy/state-flux-scxml"
